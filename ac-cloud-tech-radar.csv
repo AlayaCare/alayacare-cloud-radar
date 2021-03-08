@@ -1,0 +1,12 @@
+name,ring,quadrant,isNew,description
+Infrastructure as Code,Adopt,Techniques,FALSE,<p></p>
+Micro frontend,Trial,Techniques,FALSE,<p></p>
+Tech Radars,Assess,Techniques,TRUE,<p></p>
+Productionizing notebooks,Hold,Techniques,FALSE,<p></p>
+MariaDB,Adopt,Platforms,FALSE,<p></p>
+PostGres,Adopt,Platforms,FALSE,<p></p>
+Github,Adopt,Platforms,FALSE,<p></p>
+Debezium,Hold,Platforms,FALSE,<p></p>
+Vault,Assess,Tools,FALSE,<p></p>
+Python 2.7,Hold,languages-and-frameworks,FALSE,<p></p>
+Python 3,Trial,languages-and-frameworks,FALSE,<p></p>
