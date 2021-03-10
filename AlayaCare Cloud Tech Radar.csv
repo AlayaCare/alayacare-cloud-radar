@@ -10,5 +10,9 @@ Debezium,Hold,Platforms,FALSE,<p></p>
 Vault,Assess,Tools,FALSE,<p></p>
 Python 2.7,Hold,languages-and-frameworks,FALSE,<p></p>
 Python 3,Trial,languages-and-frameworks,FALSE,<p></p>
-Vue 3,Assess,languages-and-frameworks,FALSE,<p></p>
-Module Federation,Assess,languages-and-frameworks,FALSE,<p></p>
+Vue 3,Trial,languages-and-frameworks,FALSE,<p>Vue 3 has been release in September 2020. Migrating vue applications to this release is highly dependent of its plugins support of Vue 3.</p>
+Module Federation,Assess,languages-and-frameworks,TRUE,<p><a href='https://webpack.js.org/concepts/module-federation/'>Module federation</a> is infrastructure-level solution for developing micro frontends provided by Webpack</p>
+Jest,Adopt,languages-and-frameworks,FALSE,<p><a href='https://jestjs.io/'>Jest</a> is a JavaScript Testing Framework with a focus on simplicity.</p>
+Vue Test Utils,Adopt,languages-and-frameworks,FALSE,<p><a href='https://vue-test-utils.vuejs.org/'>Vue Test Utils</a> is the official unit testing utility library for Vue.js.</p>
+Vue CLI,Adopt,languages-and-frameworks,FALSE,<p><a href='https://cli.vuejs.org/'>Vue CLI</a> offers standad tooling for Vue.js development.</p>
+jQuery,Hold,languages-and-frameworks,FALSE,<p><a href='https://jquery.com/'>jQuery</a> should be replaced by vanilla JS or Vue components.</p>
