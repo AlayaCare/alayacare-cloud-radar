@@ -1,14 +1,27 @@
-name,ring,quadrant,isNew,description
-Infrastructure as Code,Adopt,Techniques,FALSE,<p></p>
-Micro frontend,Trial,Techniques,FALSE,<p></p>
-Tech Radars,Assess,Techniques,TRUE,<p></p>
-Productionizing notebooks,Hold,Techniques,FALSE,<p></p>
-MariaDB,Adopt,Platforms,FALSE,<p></p>
-PostGres,Adopt,Platforms,FALSE,<p></p>
-Github,Adopt,Platforms,FALSE,<p></p>
-Debezium,Hold,Platforms,FALSE,<p></p>
-Vault,Assess,Tools,FALSE,<p></p>
-Python 2.7,Hold,languages-and-frameworks,FALSE,<p></p>
-Python 3,Trial,languages-and-frameworks,FALSE,<p></p>
-Vue 3,Assess,languages-and-frameworks,FALSE,<p></p>
-Module Federation,Assess,languages-and-frameworks,FALSE,<p></p>
+"name","ring","quadrant","isNew","description"
+"Accessibility","Assess","languages-and-frameworks","FALSE","<p></p>"
+"Bootstrap","Hold","languages-and-frameworks","FALSE","<p></p>"
+"Cypress","Adopt","languages-and-frameworks","FALSE","<p></p>"
+"Debezium","Hold","Platforms","FALSE","<p></p>"
+"Github","Adopt","Platforms","FALSE","<p></p>"
+"Infrastructure as Code","Adopt","Techniques","FALSE","<p></p>"
+"Jest","Adopt","languages-and-frameworks","FALSE","<p><a href='https://jestjs.io/'>Jest</a> is a JavaScript Testing Framework with a focus on simplicity.</p>"
+"jQuery","Hold","languages-and-frameworks","FALSE","<p><a href='https://jquery.com/'>jQuery</a> should be replaced by vanilla JS or Vue components.</p>"
+"LESS","Hold","languages-and-frameworks","FALSE","<p></p>"
+"MariaDB","Adopt","Platforms","FALSE","<p></p>"
+"Micro frontend","Trial","Techniques","FALSE","<p></p>"
+"Module Federation","Assess","languages-and-frameworks","TRUE","<p><a href='https://webpack.js.org/concepts/module-federation/'>Module federation</a> is infrastructure-level solution for developing micro frontends provided by Webpack</p>"
+"PostGres","Adopt","Platforms","FALSE","<p></p>"
+"Productionizing notebooks","Hold","Techniques","FALSE","<p></p>"
+"Python 2.7","Hold","languages-and-frameworks","FALSE","<p></p>"
+"Python 3","Trial","languages-and-frameworks","FALSE","<p></p>"
+"require.js","Hold","languages-and-frameworks","FALSE","<p></p>"
+"Rollup","Assess","languages-and-frameworks","FALSE","<p><a href='https://rollupjs.org/guide/en/'>Rollup</a> is a module bundler for JavaScript which compiles small pieces of code into something larger and more complex, such as a library or application. It uses the new standardized format for code modules included in the ES6 revision of JavaScript, instead of previous idiosyncratic solutions such as CommonJS and AMD. ES modules let you freely and seamlessly combine the most useful individual functions from your favorite libraries. This will eventually be possible natively everywhere, but Rollup lets you do it today.</p>"
+"SCSS","Adopt","languages-and-frameworks","FALSE","<p></p>"
+"single-spa","Hold","languages-and-frameworks","FALSE","<p><a href='https://single-spa.js.org/'>single-spa</a> is a JavaScript framework for bringing together multiple micro frontends in a single front-end application.</p>"
+"Tech Radars","Assess","Techniques","TRUE","<p></p>"
+"TypeScript","Assess","languages-and-frameworks","FALSE","<p></p>"
+"Vault","Assess","Tools","FALSE","<p></p>"
+"Vue 3","Trial","languages-and-frameworks","FALSE","<p>Vue 3 has been release in September 2020. Migrating vue applications to this release is highly dependent of its plugins support of Vue 3.</p>"
+"Vue CLI","Adopt","languages-and-frameworks","FALSE","<p><a href='https://cli.vuejs.org/'>Vue CLI</a> offers standad tooling for Vue.js development.</p>"
+"Vue Test Utils","Adopt","languages-and-frameworks","FALSE","<p><a href='https://vue-test-utils.vuejs.org/'>Vue Test Utils</a> is the official unit testing utility library for Vue.js.</p>"
