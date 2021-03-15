@@ -27,3 +27,4 @@
 "Vue 3","Trial","languages-and-frameworks","FALSE","<p>Vue 3 has been release in September 2020. Migrating vue applications to this release is highly dependent of its plugins support of Vue 3.</p>"
 "Vue CLI","Adopt","languages-and-frameworks","FALSE","<p><a href='https://cli.vuejs.org/'>Vue CLI</a> offers standad tooling for Vue.js development.</p>"
 "Vue Test Utils","Adopt","languages-and-frameworks","FALSE","<p><a href='https://vue-test-utils.vuejs.org/'>Vue Test Utils</a> is the official unit testing utility library for Vue.js.</p>"
+"Webpack","Adopt","languages-and-frameworks","FALSE","<p><a href='https://webpack.js.org/'>Webpack</a></p>"
