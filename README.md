@@ -15,7 +15,12 @@ The source file to modify is [AlayaCare Cloud Tech Radar.csv](./AlayaCare%20Clou
 Keep the rows in orders based on their ring: `Adopt`, `Trial`, `Assess`, `Hold`.  
 Changing the order of the rings will lead to a wrong order in the UI.  
 
-### preview
+### Preview
 
-You can preview your changes by using the raw csv file from your PR.  
-Ex: [https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/AlayaCare/alayacare-cloud-radar/2608ad385b09d4d9aa2a24735e939c1d6ffae94c/AlayaCare%20Cloud%20Tech%20Radar.csv](https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/AlayaCare/alayacare-cloud-radar/2608ad385b09d4d9aa2a24735e939c1d6ffae94c/AlayaCare%20Cloud%20Tech%20Radar.csv)
+You can preview your changes by using the raw csv file URL from your PR.  
+Get the public link of your source file:
+
+![preview1](./docs/tech-radar-preview1.png)
+![preview2](./docs/tech-radar-preview2.png)
+
+Then use the following URL to preview your changes: [https://radar.thoughtworks.com/?sheetId=your-csv-file-url](https://radar.thoughtworks.com/?sheetId=)  
