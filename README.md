@@ -12,7 +12,7 @@ Changes to [AlayaCare Cloud Tech Radar.csv](./AlayaCare%20Cloud%20Tech%20Radar.c
 To add/update items on the radar, open a pull request against the `main` branch.  
 The source file to modify is [AlayaCare Cloud Tech Radar.csv](./AlayaCare%20Cloud%20Tech%20Radar.csv).  
 
-Keep the rows in orders based on their ring: `Adopt`, `Trial`, `Assess`, `Hold`.  
+Keep the rows in order based on their ring: `Adopt`, `Trial`, `Assess`, `Hold`.  
 Changing the order of the rings will lead to a wrong order in the UI.  
 
 ### Preview
