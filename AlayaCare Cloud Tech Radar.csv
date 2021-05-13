@@ -24,6 +24,7 @@
 "Assess","Tech Radars","Techniques","TRUE","<p></p>"
 "Assess","TypeScript","languages-and-frameworks","FALSE","<p></p>"
 "Assess","Vault","Tools","FALSE","<p></p>"
+"Assess","Backstage","Platforms","TRUE","<p><a href='https://backstage.io/'>backstage.io</a> - An open platform for building developer portals.</p>"
 "Hold","Bootstrap","languages-and-frameworks","FALSE","<p></p>"
 "Hold","Debezium","Platforms","FALSE","<p></p>"
 "Hold","Github Actions","Platforms","FALSE","<p><a href='https://docs.github.com/en/actions'>Github actions</a></p>"
