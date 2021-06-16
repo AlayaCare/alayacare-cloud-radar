@@ -10,7 +10,7 @@
 "Adopt","Liquibase","Tools","FALSE","<p><a href='https://www.liquibase.org/'>liquibase</a></p>"
 "Adopt","MariaDB","Platforms","FALSE","<p></p>"
 "Adopt","PostGres","Platforms","FALSE","<p></p>"
-"Adopt","Renovate","Platforms","TRUE","<p><a href='https://www.npmjs.com/package/renovate'>Renovate</a> - Save time and reduce risk by automating dependency updates in software projects.</a></p>"
+"Adopt","Renovate","Tools","TRUE","<p><a href='https://www.npmjs.com/package/renovate'>Renovate</a> - Save time and reduce risk by automating dependency updates in software projects.</a></p>"
 "Adopt","SCSS","languages-and-frameworks","FALSE","<p></p>"
 "Adopt","SonarCloud","Platforms","TRUE","<p><a href='https://sonarcloud.io/'>SonarCloud</a>’s static analysis detects Bugs and Code Smells in your repositories and provides the feedback you need to write better code.</a></p>"
 "Adopt","Vue CLI","languages-and-frameworks","FALSE","<p><a href='https://cli.vuejs.org/'>Vue CLI</a> offers standard tooling for Vue.js development.</p>"
