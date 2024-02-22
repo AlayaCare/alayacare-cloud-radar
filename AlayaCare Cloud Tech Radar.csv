@@ -27,8 +27,6 @@
 "Adopt","Micro frontend","Techniques","FALSE","<p></p>"
 "Adopt","Backstage","Platforms","FALSE","<p>Backstage is the source of truth for our component's scorecards</p>"
 "Adopt","Snyk.io","Platforms","FALSE","<p><a href='https://snyk.io/'>snyk.io</> - Automatically detect vulnerabilities</a></p>"
-"Hold","Zoom","Tools","FALSE","<p><a href='https://alayacare.zoom.us/'>Virtual-meetings</a></p>"
-"Hold","Jenkins","Tools","FALSE","<p><a href='https://www.jenkins.io/'>jenkins.io</a></p>"
 "Trial","GitOps","Techniques","FALSE","<p>GitOps is a way of implementing Continuous Deployment for cloud native applications. It focuses on a developer-centric experience when operating infrastructure, by using tools developers are already familiar with, including Git and Continuous Deployment tools.</p>"
 "Trial","Tech Radars","Techniques","FALSE","<p></p>"
 "Trial","MS-Meet","Tools","FALSE","<p></p>"
@@ -49,3 +47,4 @@
 "Hold","require.js","languages-and-frameworks","FALSE","<p></p>"
 "Hold","single-spa","languages-and-frameworks","FALSE","<p><a href='https://single-spa.js.org/'>single-spa</a> is a JavaScript framework for bringing together multiple micro frontends in a single front-end application.</p>"
 "Hold","Jenkins","Tools","FALSE","<p><a href='https://www.jenkins.io/'>jenkins.io</a></p>"
+"Hold","Zoom","Tools","FALSE","<p><a href='https://alayacare.zoom.us/'>Virtual-meetings</a></p>"
