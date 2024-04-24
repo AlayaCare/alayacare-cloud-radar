@@ -3,7 +3,7 @@
 "Adopt","ArgoCD","Tools","FALSE","<p><a href='https://argo-cd.readthedocs.io/en/stable/'>ArgoCD</a></p>"
 "Adopt","Flux","languages-and-frameworks","FALSE","<p><a href='https://github.com/fluxcd/flux'>flux</a></p>"
 "Adopt","Github","Platforms","FALSE","<p></p>"
-"Adopt","background_jobs","Tools","FALSE","<p></p>"
+"Adopt","Background jobs","Tools","FALSE","<p></p>"
 "Adopt","Helm","Tools","FALSE","<p><a href='https://helm.sh/'>helm</a></p>"
 "Adopt","Infrastructure as Code","Techniques","FALSE","<p></p>"
 "Adopt","Jest","languages-and-frameworks","FALSE","<p><a href='https://jestjs.io/'>Jest</a> is a JavaScript Testing Framework with a focus on simplicity.</p>"
