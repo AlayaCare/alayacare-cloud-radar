@@ -1,5 +1,5 @@
 "ring","name","quadrant","isNew","description"
-"Adopt","Cypress","languages-and-frameworks","FALSE","<p>Cypress is a JavaScript end-to-end testing framework.</p>"
+"Adopt","Cypress","languages-and-frameworks","FALSE","<p><a href='https://www.cypress.io/'>Cypress</a> is a JavaScript end-to-end testing framework.</p>"
 "Adopt","ArgoCD","Tools","FALSE","<p><a href='https://argo-cd.readthedocs.io/en/stable/'>ArgoCD</a></p>"
 "Adopt","Flux","languages-and-frameworks","FALSE","<p><a href='https://github.com/fluxcd/flux'>flux</a></p>"
 "Adopt","Github","Platforms","FALSE","<p></p>"
